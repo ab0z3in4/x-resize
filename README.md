@@ -11,7 +11,7 @@ If you install any Linux system with the XFCE desktop environment in KVM using V
 0. Read the script and understand what it does before you trust me and run it as root on your system xD
 1. Download the script:
 ```
-wget -O setup-x-resize.sh https://raw.githubusercontent.com/h0ek/x-resize/refs/heads/main/setup-x-resize.sh
+wget -O setup-x-resize.sh https://raw.githubusercontent.com/ab0z3in4/x-resize/refs/heads/main/setup-x-resize.sh
 ```
 3. Make it executable:
 ```
